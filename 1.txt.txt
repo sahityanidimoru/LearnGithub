@@ -1,1 +1,2 @@
-this is sample file created in git
+1.this is sample file created in git
+2.this is second sampl file in git
