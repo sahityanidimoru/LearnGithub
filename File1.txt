@@ -1,0 +1,2 @@
+“THIS IS FILE1 CONTENT IN THE LOCAL MASTER”
+“2ND line added in the local B1”
